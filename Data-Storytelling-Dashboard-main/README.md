@@ -14,6 +14,9 @@ The dataset used is synthetic, representing **4,000+ transactions over 2 years**
 
 ---
 
+<img width="1358" height="443" alt="image" src="https://github.com/user-attachments/assets/185eecb9-1ea3-4084-a712-d1e9f1281c46" />
+
+
 ## Goals
 
 1. **Transform raw data into insights:** Turn large datasets into interactive visual stories.  
