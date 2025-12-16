@@ -18,6 +18,8 @@ The dataset used is synthetic, representing **4,000+ transactions over 2 years**
 
 <img width="1358" height="443" alt="image" src="https://github.com/user-attachments/assets/185eecb9-1ea3-4084-a712-d1e9f1281c46" />
 
+### Revenue by Geography (Country)
+<img width="1281" height="450" alt="image" src="https://github.com/user-attachments/assets/4451f307-3882-42f8-84eb-852d60acbf44" />
 
 ## Goals
 
